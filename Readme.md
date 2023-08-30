@@ -1,4 +1,4 @@
-# N11 TEST AUTOMATION VIA SELENIUM
+# N11 TEST AUTOMATION
 
 ---
 This project is a test automation project for n11.com. Java-Selenium is used to prepare the project. It contains 3 different features that contain scenarios written Gherkin syntax as below; 
